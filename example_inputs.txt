@@ -1,0 +1,185 @@
+EXAMPLE INPUT VALUES FOR LOAN DEFAULT PREDICTION
+==================================================
+
+Copy and paste these values into the prediction form:
+
+--- EXAMPLE 1: LOW RISK APPLICANT ---
+Age: 35
+Income: 75000
+Loan Amount: 100000
+Credit Score: 750
+Months Employed: 60
+Number of Credit Lines: 3
+Interest Rate (%): 5.5
+Loan Term (months): 36
+DTI Ratio: 0.25
+Education: Master's
+Employment Type: Full-time
+Marital Status: Married
+Has Mortgage: No
+Has Dependents: No
+Loan Purpose: Home
+Has Co-Signer: No
+
+--- EXAMPLE 2: MEDIUM RISK APPLICANT ---
+Age: 28
+Income: 45000
+Loan Amount: 80000
+Credit Score: 650
+Months Employed: 24
+Number of Credit Lines: 2
+Interest Rate (%): 8.5
+Loan Term (months): 48
+DTI Ratio: 0.40
+Education: Bachelor's
+Employment Type: Full-time
+Marital Status: Single
+Has Mortgage: Yes
+Has Dependents: No
+Loan Purpose: Auto
+Has Co-Signer: Yes
+
+--- EXAMPLE 3: HIGH RISK APPLICANT ---
+Age: 22
+Income: 30000
+Loan Amount: 120000
+Credit Score: 580
+Months Employed: 6
+Number of Credit Lines: 5
+Interest Rate (%): 15.0
+Loan Term (months): 60
+DTI Ratio: 0.65
+Education: High School
+Employment Type: Part-time
+Marital Status: Single
+Has Mortgage: Yes
+Has Dependents: Yes
+Loan Purpose: Other
+Has Co-Signer: No
+
+--- EXAMPLE 4: VERY HIGH RISK APPLICANT ---
+Age: 25
+Income: 25000
+Loan Amount: 150000
+Credit Score: 520
+Months Employed: 3
+Number of Credit Lines: 6
+Interest Rate (%): 22.0
+Loan Term (months): 72
+DTI Ratio: 0.80
+Education: High School
+Employment Type: Unemployed
+Marital Status: Divorced
+Has Mortgage: Yes
+Has Dependents: Yes
+Loan Purpose: Business
+Has Co-Signer: No
+
+--- EXAMPLE 5: EXCELLENT APPLICANT ---
+Age: 45
+Income: 120000
+Loan Amount: 200000
+Credit Score: 820
+Months Employed: 120
+Number of Credit Lines: 4
+Interest Rate (%): 4.0
+Loan Term (months): 30
+DTI Ratio: 0.20
+Education: PhD
+Employment Type: Full-time
+Marital Status: Married
+Has Mortgage: No
+Has Dependents: Yes
+Loan Purpose: Home
+Has Co-Signer: Yes
+
+--- EXAMPLE 6: AVERAGE APPLICANT ---
+Age: 32
+Income: 55000
+Loan Amount: 90000
+Credit Score: 680
+Months Employed: 36
+Number of Credit Lines: 2
+Interest Rate (%): 7.5
+Loan Term (months): 36
+DTI Ratio: 0.35
+Education: Bachelor's
+Employment Type: Full-time
+Marital Status: Married
+Has Mortgage: Yes
+Has Dependents: No
+Loan Purpose: Education
+Has Co-Signer: No
+
+--- EXAMPLE 7: SELF-EMPLOYED APPLICANT ---
+Age: 38
+Income: 65000
+Loan Amount: 110000
+Credit Score: 700
+Months Employed: 48
+Number of Credit Lines: 3
+Interest Rate (%): 6.8
+Loan Term (months): 48
+DTI Ratio: 0.30
+Education: Master's
+Employment Type: Self-employed
+Marital Status: Married
+Has Mortgage: Yes
+Has Dependents: Yes
+Loan Purpose: Home
+Has Co-Signer: Yes
+
+--- EXAMPLE 8: YOUNG PROFESSIONAL ---
+Age: 26
+Income: 60000
+Loan Amount: 75000
+Credit Score: 720
+Months Employed: 18
+Number of Credit Lines: 1
+Interest Rate (%): 6.0
+Loan Term (months): 24
+DTI Ratio: 0.28
+Education: Master's
+Employment Type: Full-time
+Marital Status: Single
+Has Mortgage: No
+Has Dependents: No
+Loan Purpose: Auto
+Has Co-Signer: No
+
+--- EXAMPLE 9: RETIREMENT AGE APPLICANT ---
+Age: 62
+Income: 85000
+Loan Amount: 95000
+Credit Score: 780
+Months Employed: 240
+Number of Credit Lines: 2
+Interest Rate (%): 5.2
+Loan Term (months): 24
+DTI Ratio: 0.22
+Education: Bachelor's
+Employment Type: Full-time
+Marital Status: Married
+Has Mortgage: No
+Has Dependents: No
+Loan Purpose: Other
+Has Co-Signer: No
+
+--- EXAMPLE 10: RECENTLY DIVORCED ---
+Age: 40
+Income: 50000
+Loan Amount: 85000
+Credit Score: 640
+Months Employed: 12
+Number of Credit Lines: 4
+Interest Rate (%): 9.5
+Loan Term (months): 60
+DTI Ratio: 0.50
+Education: Bachelor's
+Employment Type: Full-time
+Marital Status: Divorced
+Has Mortgage: Yes
+Has Dependents: Yes
+Loan Purpose: Home
+Has Co-Signer: Yes
+
